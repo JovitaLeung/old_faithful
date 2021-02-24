@@ -3,6 +3,7 @@ title: "Old Faithful exploratory analysis"
 author: "Jovita Leung"
 date: "24/02/2021"
 output:
+  pdf_document: default
   html_document: default
 ---
 
